@@ -1,4 +1,4 @@
-# plugin name
+# Language Plugin
 
 ### Required Script Spaces
 
